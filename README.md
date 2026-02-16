@@ -1,7 +1,6 @@
 # Sistema de Acompanhamento Acadêmico (SAA) 🏫
 
 ![Status do Projeto](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 O **SAA** é uma plataforma desenvolvida para modernizar a gestão de dados escolares em instituições públicas. O objetivo é centralizar informações de alunos, professores e turmas, facilitando a análise de desempenho e o combate à evasão escolar.
 
