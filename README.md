@@ -22,8 +22,3 @@ Antes de começar, você precisará ter instalado em sua máquina:
 * [Python 3.x](https://www.python.org/) ou [.NET SDK](https://dotnet.microsoft.com/)
 * [Git](https://git-scm.com/)
 * Um SGBD (ex: PostgreSQL ou SQL Server)
-
-## 🔧 Instalação e Execução
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
